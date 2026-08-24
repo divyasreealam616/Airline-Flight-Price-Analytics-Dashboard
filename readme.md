@@ -71,7 +71,7 @@ The dataset contains flight-level information including:
 
 ## Dashboard Preview
 
-![Airline Flight Price and Performance Dashboard](dashboard.png)
+![Airline Flight Price and Performance Dashboard](./dashboard.png)
 
 ## Project Files
 
