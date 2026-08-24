@@ -69,10 +69,6 @@ The dataset contains flight-level information including:
 * Ticket price versus flight duration
 * Interactive filtering by airline, source city, destination city, class, and stops
 
-## Dashboard Preview
-
-![Airline Flight Price and Performance Dashboard](./dashboard.png)
-
 ## Project Files
 
 | File                                  | Description               |
